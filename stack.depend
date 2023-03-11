@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1677864328 source:c:\users\t14 gen1\desktop\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header_stack.h"
+
+1677863187 c:\users\t14 gen1\desktop\stack\header_stack.h
+	<stdio.h>
+	<stdlib.h>
+	"header_stack.h"
+
+1677863298 source:c:\users\t14 gen1\desktop\stack\source_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"header_stack.h"
+
